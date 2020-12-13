@@ -2,7 +2,7 @@ Este é um jogo rpg feito em pixel art, o jogo apresenta uma ideia legal
 e tem inspirações em EarthBound,Stardew Valley,Undertale.
 
 //Funcionando
-Time of Day,Movimentação do Personagem, Ciclo do Dia,HUD(Life e Hunger).
+Time of Day,Movimentação do Personagem, Ciclo do Dia,HUD(Health e Hunger).
 
 //Não Funcionando
 Botão de startar o diálogo.
@@ -30,7 +30,7 @@ This is a rpg game made in pixel art, the game presents a cool idea
 and has inspirations in EarthBound, Stardew Valley, Undertale.
 
 //Working
-Time of Day, Character Movement, Cycle of the Day,HUD(Life and Hunger).
+Time of Day, Character Movement, Cycle of the Day,HUD(Health and Hunger).
 
 // not working
 Start dialogue button.
